@@ -1,2 +1,2 @@
 # Demo
-Learning times series data sets
+Learning time series data sets
