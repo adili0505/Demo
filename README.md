@@ -1,2 +1,2 @@
 # Demo
-Learning time series data sets
+Learning how to analyze time series data sets
